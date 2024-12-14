@@ -1,4 +1,4 @@
-botToken = '7951186988:AAFm2JcK5YVTvTJ6A8C0jR3deL7kvutHSXw'
+botToken = '7956288703:AAGigxSQnxnOoqkOYNPMshHZpcOQ5XVUYrQ'
 
 channelID = '-4289319965'
 
