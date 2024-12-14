@@ -1,0 +1,54 @@
+{
+    "sub_structure": {
+        "Unity": [
+            {
+                "text": "Тариф 1",
+                "callback": "item_1"
+            },
+            {
+                "text": "Тариф 2",
+                "callback": "item_2"
+            },
+            {
+                "text": "Тариф 3",
+                "callback": "item_3"
+            }
+        ],
+        "Blender": [
+            {
+                "text": "Blender - Тариф 1",
+                "callback": "item_1"
+            },
+            {
+                "text": "Blender - Тариф 2",
+                "callback": "item_2"
+            },
+            {
+                "text": "Blender - Тариф 3",
+                "callback": "item_3"
+            }
+        ],
+        "EU5": [
+            {
+                "text": "EU5 - Тариф 1",
+                "callback": "item_1"
+            },
+            {
+                "text": "EU5 - Тариф 3",
+                "callback": "item_3"
+            }
+        ]
+    },
+    "price_data": {
+        "Тариф 1": "1199",
+        "Тариф 2": "1300",
+        "Тариф 3": "1499",
+        "Blender - Тариф 1": "1199",
+        "Blender - Тариф 2": "1300",
+        "Blender - Тариф 3": "1499",
+        "curs": "100",
+        "EU5 - Тариф 1": "1199",
+        "EU5 - Тариф 2": "1300",
+        "EU5 - Тариф 3": "1499"
+    }
+}
