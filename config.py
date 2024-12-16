@@ -9,7 +9,7 @@ pyCryptoToken = "305848:AACZ6n5EZXqkPMDf45LH1IbW2Wpuou9Br6j"
 
 menu_structure = {
     'Южно-Сахалинск': [
-        {'text': 'ПОДТВЕРДИТЕ: Да! Юж.Сахалинск', 'callback': 'subca_4'}
+        {'text': 'ПОДТВЕРДИТЕ: Юж.Сахалинск', 'callback': 'subca_4'}
     ],
     'Петропавловск-Камчатский': [
         {'text': 'Подкатегория 3.1', 'callback': 'subca_7'},
