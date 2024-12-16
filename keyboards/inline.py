@@ -64,7 +64,7 @@ def generate_menu(category_name, sub_structure,back_button="back_to_categories")
 async def itemMenu(invoiceLink):
     IK = IKM(
         inline_keyboard=[
-            [IB(text="🌐 Оплатить", url=invoiceLink)],
+            [IB(text="Оплатить 🛒", url=invoiceLink)],
             [IB(text="⬅️ Назад", callback_data="backSub")],
         ],
         row_width=2
