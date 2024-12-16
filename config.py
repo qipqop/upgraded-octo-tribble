@@ -12,9 +12,7 @@ menu_structure = {
         {'text': 'Вы уверены? Юж.Сахалинск', 'callback': 'subca_4'}
     ],
     'Петропавловск-Камчатский': [
-        {'text': 'Подкатегория 3.1', 'callback': 'subca_7'},
-        {'text': 'Подкатегория 3.2', 'callback': 'subca_8'},
-        {'text': 'Подкатегория 3.3', 'callback': 'subca_9'}
+        {'text': 'Вы уверены? П.-Камчатский', 'callback': 'subca_7'}
     ],
     'Хабаровск': [
         {'text': 'Подкатегория 4.1', 'callback': 'subca_10'},
