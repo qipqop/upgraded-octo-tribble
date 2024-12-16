@@ -1,0 +1,6 @@
+aiogram
+pyCryptoPayAPI
+gspread
+oauth2client
+aiosqlite
+requests
